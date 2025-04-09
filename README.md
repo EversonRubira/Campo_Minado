@@ -1,5 +1,3 @@
-# Campo_Minado
-
 # 💣 Campo Minado em Java
 
 Projeto desenvolvido em Java como parte do Projeto FPOO. O jogo implementa o clássico **Campo Minado**, disponível em duas versões:
