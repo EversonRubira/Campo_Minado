@@ -63,8 +63,8 @@ Projeto desenvolvido em Java como parte do Projeto FPOO. O jogo implementa o cl�
 
 **Everson Rubira**
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📫 contato: everson@email.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/eversonrubira/)
+- 📫 contato: everson@gmail.com
 
 ---
 
